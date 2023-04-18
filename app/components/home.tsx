@@ -9,8 +9,8 @@ import styles from "./home.module.scss";
 
 import SettingsIcon from "../icons/settings.svg";
 import GithubIcon from "../icons/github.svg";
-// import ChatGptIcon from "../icons/chatgpt.svg";
-import ChatGptIcon from "../icons/hani.svg";
+import ChatGptIcon from "../icons/chatgpt.svg";
+// import ChatGptIcon from "../icons/hani.svg";
 
 import BotIcon from "../icons/bot.svg";
 import AddIcon from "../icons/add.svg";
