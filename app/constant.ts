@@ -3,7 +3,7 @@ export const REPO = "ChatGPT-Next-Web";
 // export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
 // export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 
-export const REPO_URL = `https://nav.haniai.site`;
+export const REPO_URL = `nav.haniai.site`;
 export const ISSUE_URL = ``;
 
 // export const UPDATE_URL = `${REPO_URL}#keep-updated`;
